@@ -19,15 +19,15 @@
       Gambar 2
       ![hasil style css](https://github.com/user-attachments/assets/b53430cc-9571-44b4-ad64-3a4e3f741226)
 
-  4. Tambahkan inline css di file HTML, supaya paragraf yg kita buat berubah
+  3. Tambahkan inline css di file HTML, supaya paragraf yg kita buat berubah
 
       Gambar 1
       ![codinganl](https://github.com/user-attachments/assets/98e2180c-25d8-4b17-9f7f-5a3aa593a762)
 
-     Gambar 2
+      Gambar 2
       ![hasil inline css](https://github.com/user-attachments/assets/adf3f81f-fc6a-49f8-9ffc-d384c7330be4)
 
-   5. Kemudian membuat file baru css eksternal dengan nama style_eksternal.css, lalu tambahkan tag link di HTML untuk merujuk file css yang sudah dibuat pada bagian head
+   4. Kemudian membuat file baru css eksternal dengan nama style_eksternal.css, lalu tambahkan tag link di HTML untuk merujuk file css yang sudah dibuat pada bagian head
 
       Gambar 1
       ![codingan style eksternal](https://github.com/user-attachments/assets/92d05cd2-eb74-4d16-a0eb-b7d1f29a6f4e)
@@ -38,7 +38,7 @@
       Gambar 3
       ![hasil style eksternal css](https://github.com/user-attachments/assets/a2e7c805-a6b7-4c1d-bdee-fce9fa239a18)
 
-   6. Menambahkan CSS selector menggunakan ID dan Class Selector. pada file style_eksternal.css
+   5. Menambahkan CSS selector menggunakan ID dan Class Selector. pada file style_eksternal.css
 
       Gambar 1
        ![codingan akhir](https://github.com/user-attachments/assets/4a5bf300-7a7d-4b4b-883e-f8fc0f356218)
